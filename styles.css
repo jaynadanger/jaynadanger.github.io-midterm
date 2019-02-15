@@ -5,4 +5,14 @@ h1, h2{
 }
 p{
     font-family: 'Ubuntu', 'sans-serif';
+
+}
+a: link{
+    color: Black;
+}
+a: visited{
+    color: Purple;
+}
+a: hover{
+    color: blue;
 }
